@@ -1,3 +1,3 @@
-const str: string = 'hello world'
+import { templateEngine } from './template-engine.js'
 
-console.log(str)
+console.log(templateEngine('hello ${ a }!', { a: 'world' }))

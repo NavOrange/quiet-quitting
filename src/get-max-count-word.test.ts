@@ -1,4 +1,4 @@
-import { getMaxCountWord } from './get-max-count-word.js'
+import { getMaxCountWord } from './get-max-count-word'
 
 describe('get max count word', () => {
   const str = 'asdfssaaasasasasaarwerdfsafasfs'

@@ -1,4 +1,4 @@
-import { url2Obj, obj2Url } from './parse-querystring.js'
+import { url2Obj, obj2Url } from './parse-querystring'
 
 const url = 'https://www.douyin.com/abc?foo=1&bar=2'
 const urlObj = url2Obj(url)

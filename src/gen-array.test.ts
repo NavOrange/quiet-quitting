@@ -1,4 +1,4 @@
-import { genArray } from './gen-array.js'
+import { genArray } from './gen-array'
 
 describe('gen array', () => {
   test('genArray(79)', () => {

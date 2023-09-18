@@ -1,4 +1,4 @@
-import { getArea } from './max-area-of-island.js'
+import { getArea } from './max-area-of-island'
 
 describe('get area', () => {
   test('空数组', () => {

@@ -1,4 +1,4 @@
-import { templateEngine } from './template-engine.js'
+import { templateEngine } from './template-engine'
 
 describe('template engine', () => {
   test('基础替换', () => {

@@ -1,5 +1,5 @@
-import { templateEngine } from './template-engine.js'
-// import { getArea } from './max-area-of-island.js'
+import { templateEngine } from './template-engine'
+// import { getArea } from './max-area-of-island'
 
 console.log(templateEngine('hello ${ a }!', { a: 'world' }))
 

@@ -20,6 +20,7 @@
   "ts-node": {
     // Tell ts-node CLI to install the --loader automatically, explained below
     "esm": true,
-    "swc": true
+    "swc": true,
+    "experimentalSpecifierResolution": "node"
   }
 }

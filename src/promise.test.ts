@@ -1,4 +1,4 @@
-import { MyPromise } from './promise.js'
+import { MyPromise } from './promise'
 
 describe('promise', () => {
   test('then return value', async () => {

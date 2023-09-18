@@ -1,4 +1,4 @@
-import { baseConversion } from './base-conversion.js'
+import { baseConversion } from './base-conversion'
 
 describe('base conversion', () => {
   test('2 to 8', () => {

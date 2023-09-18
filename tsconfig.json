@@ -7,8 +7,8 @@
       "esnext"
     ],
     "target": "esnext",
-    "module": "ESNext",
-    "moduleResolution": "NodeNext",
+    "module": "esnext",
+    "moduleResolution": "node",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "esModuleInterop": true,
